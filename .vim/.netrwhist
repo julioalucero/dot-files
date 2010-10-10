@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/julito/Documentos/proyectos/themoney/spec/themoney'
+let g:netrw_dirhist_2='/home/julito'
+let g:netrw_dirhist_3='/home/julito/.adobe'
+let g:netrw_dirhist_4='/home/julito'
